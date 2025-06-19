@@ -1,0 +1,4 @@
+name: "Tech Demo"
+identifier: "tech-demo-starter"
+type: 'python'
+build: true
